@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\valen\\NaughtyNeighbours\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\Player\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,15 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\_GAME_\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\_GAME_\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:57:43.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\_GAME_\\Player\\PlayerMovement.cs",
               "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\_GAME_\\Player\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T09:06:09.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T09:06:09.839Z"
             }
           ]
         }
