@@ -1111,7 +1111,6 @@ GameObject:
   - component: {fileID: 702172992}
   - component: {fileID: 702172991}
   - component: {fileID: 702172990}
-  - component: {fileID: 702172989}
   - component: {fileID: 702172988}
   m_Layer: 0
   m_Name: Ruby
@@ -1141,19 +1140,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &702172989
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 702172987}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78c79055badeec04481b2b950a50ce5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 5
 --- !u!61 &702172990
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1621,7 +1607,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78c79055badeec04481b2b950a50ce5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 5
+  moveSpeed: 4
+  sprintMultiplier: 1.6
 --- !u!61 &1216854653
 BoxCollider2D:
   m_ObjectHideFlags: 0
