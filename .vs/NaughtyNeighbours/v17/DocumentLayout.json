@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\valen\\NaughtyNeighbours\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotThrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotThrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ThrowProjectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\PlayerElliot\\Skripts\\ThrowProjectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\YSortManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\Scripts\\YSortManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\Enemys\\Skripts\\EnemyPatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerRuby\\YSortManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\PlayerRuby\\YSortManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\PlayerElliot\\Skripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\EnemyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_GAME_\\Enemys\\Skripts\\EnemyMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\YSortManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,19 +43,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ElliotThrow.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotThrow.cs",
+              "RelativeDocumentMoniker": "Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotThrow.cs",
+              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotThrow.cs",
+              "RelativeToolTip": "Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotThrow.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T18:01:29.829Z",
+              "WhenOpened": "2025-08-17T08:51:19.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ThrowProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ThrowProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\_GAME_\\PlayerElliot\\Skripts\\ThrowProjectile.cs",
+              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ThrowProjectile.cs",
+              "RelativeToolTip": "Assets\\_GAME_\\PlayerElliot\\Skripts\\ThrowProjectile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T08:35:04.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YSortManager.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\YSortManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_GAME_\\Scripts\\YSortManager.cs",
+              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\YSortManager.cs",
+              "RelativeToolTip": "Assets\\_GAME_\\Scripts\\YSortManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:59:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\_GAME_\\Enemys\\Skripts\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\_GAME_\\Enemys\\Skripts\\EnemyPatrol.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T09:18:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\_GAME_\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T18:01:29.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "YSortManager.cs",
               "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerRuby\\YSortManager.cs",
               "RelativeDocumentMoniker": "Assets\\_GAME_\\PlayerRuby\\YSortManager.cs",
@@ -62,30 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ElliotScript.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotScript.cs",
-              "RelativeDocumentMoniker": "Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotScript.cs",
-              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotScript.cs",
-              "RelativeToolTip": "Assets\\_GAME_\\PlayerElliot\\Skripts\\ElliotScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:08:17.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerMovement.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\PlayerMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\_GAME_\\PlayerElliot\\Skripts\\PlayerMovement.cs",
-              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\PlayerElliot\\Skripts\\PlayerMovement.cs",
-              "RelativeToolTip": "Assets\\_GAME_\\PlayerElliot\\Skripts\\PlayerMovement.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T18:32:34.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "YSortManager.cs",
               "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\YSortManager.cs",
               "RelativeDocumentMoniker": "Assets\\_GAME_\\Enemys\\Skripts\\YSortManager.cs",
@@ -94,18 +126,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T12:27:59.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnemyMovement.cs",
-              "DocumentMoniker": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\EnemyMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\_GAME_\\Enemys\\Skripts\\EnemyMovement.cs",
-              "ToolTip": "C:\\Users\\valen\\NaughtyNeighbours\\Assets\\_GAME_\\Enemys\\Skripts\\EnemyMovement.cs",
-              "RelativeToolTip": "Assets\\_GAME_\\Enemys\\Skripts\\EnemyMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:27:42.098Z"
             }
           ]
         }

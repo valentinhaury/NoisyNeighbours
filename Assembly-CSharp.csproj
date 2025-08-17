@@ -59,8 +59,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_GAME_\PlayerElliot\Skripts\ThrowProjectile.cs" />
     <Compile Include="Assets\_GAME_\Scripts\YSortManager.cs" />
     <Compile Include="Assets\_GAME_\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\_GAME_\Scripts\Enemy.cs" />
+    <Compile Include="Assets\_GAME_\PlayerElliot\Skripts\ElliotThrow.cs" />
+    <Compile Include="Assets\_GAME_\Enemys\Skripts\EnemyPatrol.cs" />
+    <Compile Include="Assets\_GAME_\Enemys\Skripts\EnemyFollow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
